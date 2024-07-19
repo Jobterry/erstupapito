@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DBA
+comment1.params=p
+comment1.target=void\ setPersonal(Personal)
+comment10.params=cod\ v
+comment10.target=boolean\ updateVenta(int,\ Venta)
+comment11.params=codVenta
+comment11.target=boolean\ deleteVenta(int)
+comment2.params=p
+comment2.target=void\ getPersonal(Personal)
+comment3.params=p
+comment3.target=boolean\ existePersonal(Personal)
+comment4.params=ci
+comment4.target=Personal\ getPersonalPorCi(int)
+comment5.params=ci
+comment5.target=boolean\ deletePersonal(int)
+comment6.params=ci\ p
+comment6.target=boolean\ updatePersonal(int,\ Personal)
+comment7.params=v
+comment7.target=void\ setVenta(Venta)
+comment8.params=v
+comment8.target=void\ getVenta(Venta)
+comment9.params=codVenta
+comment9.target=Venta\ getVentaPorCodVenta(int)
+numComments=12

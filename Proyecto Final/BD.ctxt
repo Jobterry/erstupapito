@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BD
+comment1.params=np
+comment1.target=void\ registrarPersonal(Personal)
+comment2.params=ci
+comment2.target=boolean\ deletePersonal(int)
+comment3.params=nv
+comment3.target=void\ registrarVenta(Venta)
+comment4.params=codVenta
+comment4.target=boolean\ deleteVenta(int)
+numComments=5
